@@ -1,9 +1,0 @@
-kampus merdeka
-sudah mempelajari 
--HTML
--CSS
--Javascript
--Softskill
-sekarang sedang memperlajari mengenai github
--pengenalan 
--pembuatan akun

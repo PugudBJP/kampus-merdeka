@@ -1,0 +1,41 @@
+body{
+    background-color: #FBF8F1;
+}
+h2{
+    text-align: center;
+    margin: 100px 50px;
+}
+div.form {
+    border-radius: 5px;
+    background-color: #97BFB4;
+    padding: 20px;
+    top: 20%;
+    left: 15%;
+    position: absolute;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+input[type=text], select {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #FF9F45;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=button] {
+    width: 10%;
+    background-color: #21325E;
+    color: #FBF8F1;
+    font-weight: bold;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  input[type=button]:hover {
+    background-color: #FBF8F1;
+    color: #21325E;
+}
