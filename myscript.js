@@ -11,8 +11,7 @@
             if(this.skala >= 0 && this.skala <= 2) this.gempa = "dampak tidak terasa";
             else if(this.skala >= 3 && this.skala  <= 4 ) this.gempa = "bangunan retak-retak";
             else if(this.skala >= 5 && this.skala  <= 6 ) this.gempa = "bangunan Roboh";
-            else if(this.skala >=  7 && this.skala <= 10) this.gempa = "bangunan Roboh dan berpotensi Tsunami";
-            else this.gempa = '';
+            else this.gempa = "bangunan Roboh dan berpotensi Tsunami";
 
             document.write(
                     `Lokasi Gempa : ${this.lokasi}
