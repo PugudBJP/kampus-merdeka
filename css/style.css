@@ -8,14 +8,16 @@ body{
     margin: auto;
     background-color: #FBF8F1;
 }
-div {
+
+#div1, #div2, #div3, #div4, #div5{
+    display: inline-block;
     margin: auto;
-    width: 10%;
+    width: 30%;
     border: 3px solid #ddd;
     padding: 10px;
     text-align: center;
     background: #03045E;
-    height: 70px;
+    height: 200px;
     cursor: pointer;
 }
 
