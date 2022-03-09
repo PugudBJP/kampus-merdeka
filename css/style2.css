@@ -4,35 +4,23 @@ div.container{
     justify-content: space-around;
     color: #E6D5B8;
 }
-div.pesan {
+h2{
+    text-align: center;
+}
+hr{
+    color: #C65D7B;
+}
+div.pesan1 .pesan2 .pesan3 {
     height: 175px;
     width: 300px;
     display: none;
     }
-div.pesan1,
-    p.flip1 {
+div.pesan1, div.pesan2, div.pesan3,
+    p.flip1, p.flip2, p.flip3 {
     margin: 0px;
     padding: 5px;
     text-align: center;
     width: 300px;
     background: #03045E;
-    border: 20px ridge #ddd;
+    border: 8px ridge #ddd;
     }
-div.pesan2,
-        p.flip2 {
-        margin: 0px;
-        padding: 5px;
-        text-align: center;
-        width: 300px;
-        background: #03045E;
-        border: 20px ridge #ddd;
-        }
-div.pesan3,
-        p.flip3 {
-        margin: 0px;
-        padding: 5px;
-        text-align: center;
-        width: 300px;
-        background: #03045E;
-        border: 20px ridge #ddd;
-        }
