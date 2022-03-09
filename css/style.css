@@ -1,0 +1,21 @@
+
+h2{
+    text-align: center;
+    margin: 100px 50px;
+}
+body{
+    text-align: center;
+    margin: auto;
+    background-color: #FBF8F1;
+}
+div {
+    margin: auto;
+    width: 10%;
+    border: 3px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    background: #03045E;
+    height: 70px;
+    cursor: pointer;
+}
+

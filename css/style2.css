@@ -1,0 +1,38 @@
+div.container{
+    display: flex;
+    width:100%;
+    justify-content: space-around;
+    color: #E6D5B8;
+}
+div.pesan {
+    height: 175px;
+    width: 300px;
+    display: none;
+    }
+div.pesan1,
+    p.flip1 {
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    width: 300px;
+    background: #03045E;
+    border: 20px ridge #ddd;
+    }
+div.pesan2,
+        p.flip2 {
+        margin: 0px;
+        padding: 5px;
+        text-align: center;
+        width: 300px;
+        background: #03045E;
+        border: 20px ridge #ddd;
+        }
+div.pesan3,
+        p.flip3 {
+        margin: 0px;
+        padding: 5px;
+        text-align: center;
+        width: 300px;
+        background: #03045E;
+        border: 20px ridge #ddd;
+        }
